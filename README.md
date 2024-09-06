@@ -1,18 +1,17 @@
-# Salesforce DX Project: Next Steps
+# Contact List using Aura Components
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Objective: to create a contact list using Aura Components.
 
-## How Do You Plan to Deploy Your Changes?
+## Key concepts used throughout this project:
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+- **Aura Components**: Using Aura components to create custom user interfaces in Salesforce.
+- **Client-side Controllers**: Implementing client-side controllers (JavaScript) to manage the logic and interaction of the interface.
+- **Apex Controllers**: Creating methods in Apex for server-side data manipulation and integration with Salesforce components.
+- **Data Loading**: The process of loading data, such as the contact list, using a combination of client-side and server-side controllers.
+- **Custom UI**: Developing a custom user interface to display and interact with Salesforce data.
+- **Custom Tabs**: Creating custom tabs in Salesforce to organize and present the interface and components created on the platform.
 
-## Configure Your Salesforce DX Project
+## Demo
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+https://github.com/user-attachments/assets/879019a7-a1d8-4b88-8977-4e511e97b18e
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
